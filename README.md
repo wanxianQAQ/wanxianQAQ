@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @wanxianQAQ
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+wanxianQAQ/wanxianQAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xa8A0be3e549aF5F9317c3559cdC428b2D8F6f845'
+
+quorum: 2
